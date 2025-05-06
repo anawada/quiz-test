@@ -1,4 +1,4 @@
-# Huel QA Task
+# QA Task
 
 ## Description
 This project is a QA task for testing using Playwright.
